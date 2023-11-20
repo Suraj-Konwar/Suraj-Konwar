@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/w1200-h630-p-k-no-nu/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/w1200-h630-p-k-no-nu/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Suraj Konwar</h1>
 <h3 align="center">A passionate frontend developer from Assam</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=best+animated+coding+gif&tbm=isch&ved=2ahUKEwjwrfGsptOCAxXsbWwGHfuSBwEQ2-cCegQIABAA&oq=best+animated+coding+gif&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEAgQHjoHCAAQgAQQGFDsBVigEmDRFWgAcAB4AIABrQGIAcMGkgEDMC42mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=yrFbZfCgD-zbseMP-6WeCA&bih=563&biw=1280&rlz=1C1CHBF_enIN1051IN1052#imgrc=zhjSEq0Xd_DH7M">
