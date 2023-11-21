@@ -1,6 +1,6 @@
-# Hi, I'm Suraj! 👋
+# Hello, I'm Suraj! 👋
 
-I am Suraj Konwar, a passionate Front End and Android developer who dedicates my free time to crafting exceptional projects. Coding is not just a profession for me; it's a fulfilling hobby that allows me to express my creativity and bring innovative ideas to life.
+I am Suraj Konwar, a passionate Front-end and Android developer who dedicates my free time to crafting exceptional projects. Coding is not just a profession for me; it's a fulfilling hobby that allows me to express my creativity and bring innovative ideas to life.
 ## 🔗 Reach Me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://suraj-konwar.github.io/Surajkonwar/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-konwar-285135174/)
@@ -8,8 +8,8 @@ I am Suraj Konwar, a passionate Front End and Android developer who dedicates my
 
 - 🔭 I'm currently working on a Quiz Game App
 - 👯 I’m looking to collaborate on
-- 🤝 I’m looking for help with
-- 🌱 I’m currently learning
+- 🤝 I’m looking for help with Back-end php development
+- 🌱 I’m currently learning React Native
 - ⚡ Fun fact: I play Games alot
 
 
