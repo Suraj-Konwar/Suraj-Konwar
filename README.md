@@ -15,5 +15,9 @@ I am Suraj Konwar, a passionate Front-end and Android developer who dedicates my
 
 ## 🛠 Skills
 Javascript, HTML, CSS & Kotlin
+## IDE
+
+- Visual Studio
+- Android Studio
 
 
