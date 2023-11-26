@@ -1,6 +1,6 @@
 # Hello, I'm Suraj! 👋
 
-I am Suraj Konwar, a passionate Front-end and Android developer who dedicates my free time to crafting exceptional projects. Coding is not just a profession for me; it's a fulfilling hobby that allows me to express my creativity and bring innovative ideas to life.
+I am Suraj Konwar, a passionate Front-end and Android developer who dedicates my free time to crafting exceptional projects. Coding is not my profession; it's a hobby that allows me to express my creativity and bring innovative ideas to life.
 ## 🔗 Reach Me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://suraj-konwar.github.io/Surajkonwar/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-konwar-285135174/)
