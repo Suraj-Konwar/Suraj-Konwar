@@ -14,12 +14,13 @@ I am Suraj Konwar, a passionate Front-end and Android developer who dedicates my
 
 
 ## 🛠 Skills
-Javascript, HTML, Markdown, CSS, Kotlin, Node.js, Express.js, Figma, Adobe XD
+Javascript, python, HTML, Markdown, CSS, Kotlin, Node.js, Express.js, Figma, Adobe XD
 ## Backend Framework
 React.js
 ## IDE
 
 - Visual Studio
 - Android Studio
+- pycharm
 
 
